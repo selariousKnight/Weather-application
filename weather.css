@@ -44,7 +44,7 @@
 .detailsCard{
     display: flex;
     flex-direction: column;
-    text-align: left;
+    align-items: center;
     color: #011638;
     padding: 10px;
     border-radius: 8px;
